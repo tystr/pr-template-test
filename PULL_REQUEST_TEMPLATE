@@ -1,6 +1,6 @@
-| Checklist     | Signoff
-| ------------- | ---
-| Follows code standards and conventions                              | 
-| No code duplication                                                 | 
-| Implements only the functionality required by the associated ticket |
-| Functionality is covered by unit and/or functional tests            | yes/no
+| ----- | Checklist |
+| ----- | ------------- |
+| - [ ] | Follows code standards and conventions |
+| - [ ] | No code duplication |
+| - [ ] | Implements only the functionality required by the associated ticket |
+| - [ ] | Functionality is covered by unit and/or functional tests |
