@@ -1,6 +1,10 @@
-| ----- | Checklist |
-| ----- | ------------- |
-| - [ ] | Follows code standards and conventions |
-| - [ ] | No code duplication |
-| - [ ] | Implements only the functionality required by the associated ticket |
-| - [ ] | Functionality is covered by unit and/or functional tests |
+## Checklist
+- [ ] Follows code standards and conventions
+- [ ] No code duplication
+- [ ] Implements only the functionality required by the associated ticket
+- [ ] Functionality is covered by unit and/or functional tests
+
+Signoff: @YOUR_GITHUB_USER
+
+By signing off, you are acknowledging that you have checked each item in the checklist
+and are taking responsiblitiy for this pull request meeting the requirements.
